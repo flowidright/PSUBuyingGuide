@@ -13,7 +13,7 @@ collections:
 
 just_the_docs:
   collections:
-    General Recommendations:
+    general-recommendations:
       name: General Recommendations
     country:
       name: Country-Based Recommendations 
