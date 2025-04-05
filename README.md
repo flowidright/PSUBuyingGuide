@@ -11,10 +11,6 @@ permalink: /
 
 **This guide aims to be the most useful guide it can be for people looking for a PSU tailored to their needs. This guide will NOT include every PSU on the market (for now!) but it WILL include close to every PSU that is widely available in the US/UK/Europe markets + some of the asian exclusive PSUs with trusted reviews.**
 
-# Things you should know:
-
-**Check [Electrical Performance](_general-recommendations/electrical-performance.md) and [Noise](_general-recommendations/noise.md) BEFORE referring to Country-Based Recommendations!**
-
 # Tiering
 
 **The reccomendations will be split into 4 tiers:**
