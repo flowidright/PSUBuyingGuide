@@ -21,8 +21,8 @@ Good sources for Color charts include:
 
 and more.
 
-**IMPORTANT: Cybernetics LAMDBA ratings are SEPARATE from color graphs!**
+**IMPORTANT: Cybernetics LAMDBA ratings are SEPARATE from color charts!**
 
 # How to read Color Charts
 
-**IMPORTANT: Cybernetics always keeps the fan on, so on units like the rmx (2024), hardware busters will give you a better representation of noise levels at low wattages!**
+**IMPORTANT: Cybernetics always keeps the fan on, so on units like the RMx (2024), hardware busters will give you a better representation of noise levels at low wattages!**
