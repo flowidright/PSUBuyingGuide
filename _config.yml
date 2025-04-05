@@ -3,10 +3,10 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
 collections:
-  components:
+  buying:
     permalink: /:path
     output: true
-  peripherals:
+  country:
     permalink: /:path
     output: true
 
