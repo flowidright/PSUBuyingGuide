@@ -11,7 +11,7 @@ collections:
     permalink: "/:collection/:path"
     output: true
 
-    info:
+  info:
     permalink: "/:collection/:path"
     output: true
     
