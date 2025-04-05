@@ -6,14 +6,15 @@ collections:
   general-recommendations:
     permalink: "/:collection/:path"
     output: true
-  
+
   country:
     permalink: "/:collection/:path"
     output: true
 
 just_the_docs:
   collections:
-    General Recommendations:
+    general-recommendations:
       name: General Recommendations
+
     country:
       name: Country-Based Recommendations 
