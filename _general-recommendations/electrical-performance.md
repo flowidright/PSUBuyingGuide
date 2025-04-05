@@ -4,3 +4,7 @@ layout: default
 ---
 
 # Electrical Performance
+
+
+Electrical performance is what determines the Quality, Efficiency, and Safty of your unit. It is the main factor you should look at when looking for a good PSU.
+
