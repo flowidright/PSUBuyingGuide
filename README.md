@@ -13,7 +13,7 @@ permalink: /
 
 # Tiering
 
-**The reccomendations will be split into 4 tiers:**
+**The reccomendations will be split into 3 tiers:**
 
 **Baller: Some of the best units on the market. They will most likely be overkill, so only buy if you have a large budget!**
 
