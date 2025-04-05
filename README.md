@@ -29,4 +29,4 @@ permalink: /
 
 # Point of Contact 
 
-**Join [My resources server](https://discord.gg/UKEQrdUbX5) For support regarding this guide, or for useful resources that will be beneficial for reccomendations!**
+**Join [my resources server](https://discord.gg/UKEQrdUbX5) for support regarding this guide, or for useful resources that will be beneficial for reccomendations!**
