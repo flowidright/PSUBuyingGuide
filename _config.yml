@@ -18,9 +18,9 @@ collections:
 
 just_the_docs:
   collections:
-    info:
-      name: Information
     general-recommendations:
       name: General Recommendations
     country:
       name: Country-Based Recommendations 
+    info:
+      name: Information
