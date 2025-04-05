@@ -1,3 +1,7 @@
+---
+title: Efficiency Ratings
+layout: default
+---
 
 # Efficiency Ratings
 
