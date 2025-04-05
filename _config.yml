@@ -3,7 +3,7 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
 collections:
-  General reccomendations:
+  General Reccomendations:
     permalink: /:path
     output: true
   country:
@@ -12,7 +12,7 @@ collections:
 
 just_the_docs:
   collections:
-    General reccomendations:
+    General Reccomendations:
       name: General reccomendations
     country:
       name: Country-Based reccomendations 
