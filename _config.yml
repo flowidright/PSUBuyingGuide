@@ -3,6 +3,10 @@ remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
 collections:
+  info:
+    permalink: "/:collection/:path"
+    output: true
+    
   general-recommendations:
     permalink: "/:collection/:path"
     output: true
@@ -10,9 +14,12 @@ collections:
   country:
     permalink: "/:collection/:path"
     output: true
+    
 
 just_the_docs:
   collections:
+    info:
+      name: Information
     general-recommendations:
       name: General Recommendations
     country:
