@@ -1,4 +1,4 @@
-title: The Tech™
+title: Flow
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
@@ -12,7 +12,7 @@ collections:
 
 just_the_docs:
   collections:
-    components:
-      name: Components
-    peripherals:
-      name: Peripherals
+    buying:
+      name: General reccomendations
+    country:
+      name: Country-Based reccomendations 
