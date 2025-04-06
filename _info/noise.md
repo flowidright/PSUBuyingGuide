@@ -29,3 +29,4 @@ and more.
 
 [Example Color Chart](https://github.com/user-attachments/assets/3c115e1a-a3ae-425b-8006-9e7c6bb1dae5)
 
+The colors represent a certain level of noise, measured in DBa. The load gets higher as you go from left to right, so the end of the graph is full load and the start of it is idle.
