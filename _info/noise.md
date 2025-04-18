@@ -11,7 +11,9 @@ Noise determines how quiet or how loud your PSU is. It may or may not be importa
 
 # Noise Graphs
 
-There are two main types of graphs: **Average Noise** and **Color charts**. Average noise is the average noise figures of the PSU, while Color charts give you an accurate representation of the noise figures at X wattage. Because of this, I reccomend using color charts as they are more accurate and are easy to read.
+**NOTE: The term "Color Charts" is NOT an official term and is just used here to provide a easier explanation and to reduce confusion.**
+
+There are two main types of graphs: **Average Noise charts** and **Color charts**. Average noise is the average noise figures of the PSU, while Color charts give you an accurate representation of the noise figures at X wattage on the Major and Minor rails. Because of this, I reccomend using color charts as they are more accurate and are easy to read.
 
 Good sources for Color charts include:
 
@@ -30,3 +32,5 @@ and more.
 [Example Color Chart](https://github.com/user-attachments/assets/3c115e1a-a3ae-425b-8006-9e7c6bb1dae5)
 
 The colors represent a certain level of noise, measured in DBa. The load gets higher as you go from left to right, so the end of the graph is full load and the start of it is idle.
+
+The bottom line of numbers represent the Major rails, and the line of numbers on the Side represent the Minor rails.
