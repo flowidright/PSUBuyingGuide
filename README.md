@@ -27,7 +27,7 @@ permalink: /
 
 ## Noise tiering
 
-Adding soon.
+Noise will just be ranked from top to bottom, no Tiers.
 
 # Point of Contact 
 
