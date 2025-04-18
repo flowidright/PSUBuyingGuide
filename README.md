@@ -13,6 +13,10 @@ permalink: /
 
 # Tiering
 
+**IMPORTANT: PSUs are ranked from top to bottom within the Tiers.**
+
+## Electrical Performance Tiering
+
 **The reccomendations will be split into 3 tiers:**
 
 **Baller: Some of the best units on the market. They will most likely be overkill, so only buy if you have a large budget!**
@@ -21,7 +25,9 @@ permalink: /
 
 **Budget: PSUs oriented towards Budget systems. They will often lack creature comforts like modular cables, but they will be the best option if you are on a budget or building a low-power system.**
 
-**IMPORTANT: PSUs are ranked from top to bottom within the Tiers.**
+## Noise tiering
+
+Adding soon.
 
 # Point of Contact 
 
