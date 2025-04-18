@@ -19,15 +19,15 @@ Good sources for Color charts include:
 
 [Hardware Busters](https://hwbusters.com/)
 
-[Cybernetics](https://www.cybenetics.com/)
+[Cybenetics](https://www.cybenetics.com/)
 
 and more.
 
-**IMPORTANT: Cybernetics LAMDBA ratings are SEPARATE from color charts!**
+**IMPORTANT: Cybenetics LAMDBA ratings are SEPARATE from color charts!**
 
 # How to read Color Charts
 
-**IMPORTANT: Cybernetics always keeps the fan on, so on units like the RMx (2024), hardware busters will give you a better representation of noise levels at low wattages!**
+**IMPORTANT: Cybenetics always keeps the fan on, so on units like the RMx (2024), hardware busters will give you a better representation of noise levels at low wattages!**
 
 [Example Color Chart](https://github.com/user-attachments/assets/3c115e1a-a3ae-425b-8006-9e7c6bb1dae5)
 
