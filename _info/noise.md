@@ -13,6 +13,10 @@ Noise determines how quiet or how loud your PSU is. It may or may not be importa
 
 Some PSUs will have something called a Zero RPM mode, which is a mode that inhibits the fan below a certian wattage usage and temperature. It can often be turned on with a hardware switch, in software, or in the case of the new RMx (2024), a knob.
 
+![Zero RPM Switch](Screenshot_20250505-154347.png)
+
+![Rmx fan knob](_info/Screenshot_20250505-154236.png)
+
 # Noise Graphs
 
 **NOTE: The term "Color Charts" is NOT an official term and is just used here to provide a easier explanation and to reduce confusion.**
