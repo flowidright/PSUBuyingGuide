@@ -29,6 +29,10 @@ permalink: /
 
 Noise will just be ranked from top to bottom, no Tiers.
 
+## [MUST-READ] Country tiering
+
+For country-based reccomendations, the tiers will be the same as usual. **Check pricing** and get whichever fits in your budget.
+
 # Point of Contact 
 
 **Join [my resources server](https://discord.gg/UKEQrdUbX5) for support regarding this guide, or for useful resources that will be beneficial for reccomendations!**
