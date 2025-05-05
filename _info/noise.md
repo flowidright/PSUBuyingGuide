@@ -29,7 +29,7 @@ and more.
 
 **IMPORTANT: Cybenetics always keeps the fan on, so on units like the RMx (2024), hardware busters will give you a better representation of noise levels at low wattages!**
 
-! [Example Color Chart](ExampleColorChart.jpg)
+![Example Color Chart](ExampleColorChart.jpg)
 
 The colors represent a certain level of noise, measured in DBa. The load gets higher as you go from left to right, so the end of the graph is full load and the start of it is idle.
 
