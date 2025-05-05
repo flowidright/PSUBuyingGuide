@@ -32,3 +32,7 @@ Noise will just be ranked from top to bottom, no Tiers.
 # Point of Contact 
 
 **Join [my resources server](https://discord.gg/UKEQrdUbX5) for support regarding this guide, or for useful resources that will be beneficial for reccomendations!**
+
+## Special thanks to.....
+
+• psy/spiritfader - Github Pages setup
