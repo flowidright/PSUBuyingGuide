@@ -35,4 +35,4 @@ Noise will just be ranked from top to bottom, no Tiers.
 
 ## Special thanks to.....
 
-• psy/spiritfader - Github Pages setup
+• psy/spiritfader - Github Pages setup/support help
