@@ -15,7 +15,7 @@ Some PSUs will have something called a Zero RPM mode, which is a mode that inhib
 
 ![Zero RPM Switch](Screenshot_20250505-154347.png)
 
-![Rmx fan knob](_info/Screenshot_20250505-154236.png)
+![Rmx fan knob](Screenshot_20250505-154236.png)
 
 # Noise Graphs
 
