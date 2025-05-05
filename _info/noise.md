@@ -27,7 +27,7 @@ and more.
 
 # How to read Color Charts
 
-**IMPORTANT: Cybenetics always keeps the fan on, so on units like the RMx (2024), hardware busters will give you a better representation of noise levels at low wattages!**
+**IMPORTANT: Cybenetics always keeps the fan on, so on units with Zero RPM Mode, please be aware!**
 
 ![Example Color Chart](ExampleColorChart.jpg)
 
