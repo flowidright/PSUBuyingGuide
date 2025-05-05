@@ -13,7 +13,7 @@ An efficiency rating is a rating that certifies that your PSU is above a certain
 
 There are two main efficiency ratings, 80 PLUS and Cybenetics ETA. 
 
-![Image of both Labels](docs/assets/80_PLUS_vs_cybenetics.width-1500.format-webp.webp)
+![Image of both Labels](80_PLUS_vs_cybenetics.width-1500.format-webp.webp)
 
 Unlike 80 PLUS, Cybenetics uses more points of measurement, 
 and the methodology is much stricter. They also test additional data of PSUs, 
