@@ -13,6 +13,8 @@ layout: default
 
 **IMPORTANT: PSU wattage variants will not be listed as individual links. Please use the PCPP selection filters/search (models that do not have the selection filter e.g. Vertoo GV) to get the wattage you want.**
 
+![wattageselection](Screenshot_20250506-224510.png)
+
 **Baller:**
 
 Corsair AX1600i - [Link](https://pcpartpicker.com/product/cJbwrH/corsair-ax1600i-1600-w-80-titanium-certified-fully-modular-atx-power-supply-cp-9020087-na)
