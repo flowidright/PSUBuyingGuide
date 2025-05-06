@@ -5,7 +5,7 @@ layout: default
 
 # US
 
-*Last updated on 25/05/05*
+*Last updated on 25/05/06*
 
 **Prices WILL change over time, so check pricing on all of the units before purchasing!**
 
@@ -25,6 +25,7 @@ Adata XPG Cybercore - [Link](https://pcpartpicker.com/product/FChv6h/adata-xpg-c
 
 Corsair RMx (2024) - [Link,](https://pcpartpicker.com/product/vY4Zxr/corsair-rm850x-2024-850-w-fully-modular-atx-power-supply-cp-9020270-na)
 
-Vertoo GV/G5 - [Link](https://pcpartpicker.com/product/zNzp99/vetroo-50315153244479-850-w-80-gold-certified-fully-modular-atx-power-supply-50315153244479)
+Vertoo GV/G5 - [Link - 850w](https://pcpartpicker.com/product/zNzp99/vetroo-50315153244479-850-w-80-gold-certified-fully-modular-atx-power-supply-50315153244479)
+[Link - 1000w](https://pcpartpicker.com/product/nCzXsY/vetroo-gv1000-1000-w-80-gold-certified-fully-modular-atx-power-supply-cp-psu-vt-gv1000bk)
 
 
