@@ -11,7 +11,7 @@ layout: default
 
 **Please read the main page first before using these reccomendations**
 
-**IMPORTANT: PSU wattage variants will not be listed as individual links. Please use the PCPP selection filters to get the wattage you want.**
+**IMPORTANT: PSU wattage variants will not be listed as individual links. Please use the PCPP selection filters/search(models that do not have the selection filter e.g. Vertoo GV) to get the wattage you want.**
 
 **Baller:**
 
