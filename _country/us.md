@@ -11,6 +11,8 @@ layout: default
 
 **Please read the main page first before using these reccomendations**
 
+**IMPORTANT: PSU wattage variants will not be listed as individual links. Please use the PCPP selection filters to get the wattage you want.**
+
 **Baller:**
 
 Corsair AX1600i - [Link](https://pcpartpicker.com/product/cJbwrH/corsair-ax1600i-1600-w-80-titanium-certified-fully-modular-atx-power-supply-cp-9020087-na)
@@ -23,9 +25,6 @@ Adata XPG Cybercore - [Link](https://pcpartpicker.com/product/FChv6h/adata-xpg-c
 
 **Mainstream:**
 
-Corsair RMx (2024) - [Link,](https://pcpartpicker.com/product/vY4Zxr/corsair-rm850x-2024-850-w-fully-modular-atx-power-supply-cp-9020270-na)
+Corsair RMx (2024) - [Link](https://pcpartpicker.com/product/vY4Zxr/corsair-rm850x-2024-850-w-fully-modular-atx-power-supply-cp-9020270-na)
 
 Vertoo GV/G5 - [Link - 850w](https://pcpartpicker.com/product/zNzp99/vetroo-50315153244479-850-w-80-gold-certified-fully-modular-atx-power-supply-50315153244479)
-[Link - 1000w](https://pcpartpicker.com/product/nCzXsY/vetroo-gv1000-1000-w-80-gold-certified-fully-modular-atx-power-supply-cp-psu-vt-gv1000bk)
-
-
