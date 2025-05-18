@@ -23,6 +23,12 @@ Corsair HXi (2025) -[Link](https://ca.pcpartpicker.com/product/ghjv6h/corsair-hx
 
 **Mainstream**
 
+Asus ROG Strix Aura - [Link](https://ca.pcpartpicker.com/product/Rystt6/asus-rog-strix-aura-edition-850-w-80-gold-certified-fully-modular-atx-power-supply-rog-strix-850g-aura-gaming)
+
+MSI MPG AG - [Link](https://ca.pcpartpicker.com/product/nhC48d/msi-mpg-a850g-pcie5-850-w-80-gold-certified-fully-modular-atx-power-supply-mpg-a850g-pcie5)
+
+Lian Li Edge Gold - [Link](https://ca.pcpartpicker.com/product/XTBFf7/lian-li-edge-gold-850-w-80-gold-certified-fully-modular-atx-power-supply-eg0850g-black)
+
 **Budget**
 
 Corsair CX (2023) - [Link](https://ca.pcpartpicker.com/product/nNTZxr/corsair-cx-2023-650-w-80-bronze-certified-atx-power-supply-cp-9020278-na)
