@@ -21,7 +21,7 @@ Corsair AXi - [Link](https://au.pcpartpicker.com/product/cJbwrH/corsair-ax1600i-
 
 Seasonic Prime TX - [Link](https://au.pcpartpicker.com/product/64NYcf/seasonic-prime-tx-1600-atx-31-1600-w-80-titanium-certified-fully-modular-atx-power-supply-atx3-prime-tx-1600)
 
-Corsair HXi - [Link](https://au.pcpartpicker.com/product/fGgrxr/corsair-hx1200i-1200-w-80-platinum-certified-fully-modular-atx-power-supply-cp-9020281-na)
+Corsair HXi (2023) - [Link](https://au.pcpartpicker.com/product/fGgrxr/corsair-hx1200i-1200-w-80-platinum-certified-fully-modular-atx-power-supply-cp-9020281-na)
 
 XPG Cybercore - [Link](https://au.pcpartpicker.com/product/QKmNnQ/adata-xpg-cybercore-ii-1000-w-80-platinum-certified-fully-modular-atx-power-supply-cybercoreii1000p-bkcus)
 
