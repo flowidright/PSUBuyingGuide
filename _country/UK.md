@@ -33,3 +33,11 @@ Vetroo GV/G5* - [Link](https://uk.pcpartpicker.com/product/BZcBD3/vetroo-5031515
  * = PCPP availability is hit or miss - always check Amazon first.
 
 Seasonic Focus Gold - [Link](https://uk.pcpartpicker.com/product/gWbwrH/seasonic-focus-gold-750w-80-gold-certified-semi-modular-atx-power-supply-ssr-750fm)
+
+**Budget**
+
+Corsair CX (2023) - [Link](https://uk.pcpartpicker.com/product/nNTZxr/corsair-cx-2023-650-w-80-bronze-certified-atx-power-supply-cp-9020278-na)
+
+MSI MAG ABN* - [Link](https://uk.pcpartpicker.com/product/8LNxFT/msi-mag-a-bn-650-w-80-bronze-certified-atx-power-supply-mag-a650bn)
+
+* = 750w model does not have proper reviews; likely the same internals but buy at your own risk.
