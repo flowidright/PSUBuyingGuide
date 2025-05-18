@@ -1,9 +1,9 @@
 ---
-title: AU
+title: Australia
 layout: default
 ---
 
-# AU
+# Australia 
 
 *Last updated on 25/05/18*
 
