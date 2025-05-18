@@ -31,6 +31,11 @@ Corsair RMx (2024) - [Link](https://au.pcpartpicker.com/product/vY4Zxr/corsair-r
 
 NZXT C Gold (2024) - [Link](https://au.pcpartpicker.com/product/qDLdnQ/nzxt-c850-2024-850-w-80-gold-certified-fully-modular-atx-power-supply-pa-8g2bb-us)
 
+
+FSP Vita GM - [Link](https://au.pcpartpicker.com/product/9ktLrH/fsp-group-vita-850gm-850-w-80-gold-certified-fully-modular-atx-power-supply-vita-850gm)
+
+Silverstone DA-R GMA - [Link](https://au.pcpartpicker.com/product/F39wrH/silverstone-da850r-gma-850-w-80-gold-certified-fully-modular-atx-power-supply-sst-da850r-gma)
+
 **Budget**
 
 Adata XPG Pylon - [Link](https://au.pcpartpicker.com/product/NJzFf7/adata-xpg-pylon-550-w-80-bronze-certified-atx-power-supply-pylon550b-bkcus)
