@@ -26,3 +26,10 @@ Asus ROG Strix Aura - [Link](https://uk.pcpartpicker.com/product/Tv26Mp/asus-rog
 **Mainstream**
 
 Corsair RMx - [Link](https://uk.pcpartpicker.com/product/vY4Zxr/corsair-rm850x-2024-850-w-fully-modular-atx-power-supply-cp-9020270-na)
+
+
+Vetroo GV/G5* - [Link](https://uk.pcpartpicker.com/product/BZcBD3/vetroo-50315153277247-850-w-80-gold-certified-fully-modular-atx-power-supply-50315153277247)
+
+ * = PCPP availability is hit or miss - always check Amazon first.
+
+Seasonic Focus Gold - [Link](https://uk.pcpartpicker.com/product/gWbwrH/seasonic-focus-gold-750w-80-gold-certified-semi-modular-atx-power-supply-ssr-750fm)
