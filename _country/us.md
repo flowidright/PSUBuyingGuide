@@ -5,7 +5,7 @@ layout: default
 
 # US
 
-*Last updated on 25/05/18*
+*Last updated on 25/05/20*
 
 **Prices WILL change over time, so check pricing on all of the units before purchasing!**
 
@@ -37,7 +37,9 @@ NZXT C Gold (2024/3.1) - [link](https://pcpartpicker.com/product/qDLdnQ/nzxt-c85
 
 Adata XPG Core Reactor II - [link](https://pcpartpicker.com/product/zfGhP6/adata-xpg-core-reactor-ii-750-w-80-gold-certified-fully-modular-atx-power-supply-corereactorii750g-bkcus)
 
-Vetroo GV/G5 - [Link](https://pcpartpicker.com/product/zNzp99/vetroo-50315153244479-850-w-80-gold-certified-fully-modular-atx-power-supply-50315153244479)
+Vetroo GV/G5* - [Link](https://pcpartpicker.com/product/zNzp99/vetroo-50315153244479-850-w-80-gold-certified-fully-modular-atx-power-supply-50315153244479)
+
+* = Long shipping times consisting of over 1 month.
 
 Adata XPG Core Reactor II VE - [Link](https://pcpartpicker.com/product/dLTZxr/adata-xpg-core-reactor-ii-ve-750-w-80-gold-certified-fully-modular-atx-power-supply-corereactoriive750g-bkcus)
 
