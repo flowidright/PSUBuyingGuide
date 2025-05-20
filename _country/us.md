@@ -39,7 +39,7 @@ Adata XPG Core Reactor II - [link](https://pcpartpicker.com/product/zfGhP6/adata
 
 Vetroo GV/G5* - [Link](https://pcpartpicker.com/product/zNzp99/vetroo-50315153244479-850-w-80-gold-certified-fully-modular-atx-power-supply-50315153244479)
 
-* = Long shipping times consisting of over 1 month.
+* = Long shipping times consisting of over 1 month on the Black variant.
 
 Adata XPG Core Reactor II VE - [Link](https://pcpartpicker.com/product/dLTZxr/adata-xpg-core-reactor-ii-ve-750-w-80-gold-certified-fully-modular-atx-power-supply-corereactoriive750g-bkcus)
 
