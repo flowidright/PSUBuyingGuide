@@ -5,7 +5,7 @@ layout: default
 
 # Canada
 
-*Last updated on 25/05/18*
+*Last updated on 25/05/25*
 
 **Prices WILL change over time, so check pricing on all of the units before purchasing!**
 
