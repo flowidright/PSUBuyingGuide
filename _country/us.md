@@ -5,7 +5,7 @@ layout: default
 
 # US
 
-*Last updated on 25/05/20*
+*Last updated on 25/05/25*
 
 **Prices WILL change over time, so check pricing on all of the units before purchasing!**
 
@@ -23,7 +23,7 @@ NZXT C1500 - [Link](https://pcpartpicker.com/product/RLZXsY/nzxt-c1500-1500-w-80
 
 Corsair HXi (2023) - [Link](https://pcpartpicker.com/product/fFbRsY/corsair-hx1500i-2023-1500-w-80-platinum-certified-fully-modular-atx-power-supply-cp-9020261-na)
 
-Adata XPG Cybercore - [Link](https://pcpartpicker.com/product/FChv6h/adata-xpg-cybercore-ii-1300-w-80-platinum-certified-fully-modular-atx-power-supply-cybercoreii1300p-bkcus)
+Adata XPG Cybercore II - [Link](https://pcpartpicker.com/product/FChv6h/adata-xpg-cybercore-ii-1300-w-80-platinum-certified-fully-modular-atx-power-supply-cybercoreii1300p-bkcus)
 
 **Mainstream:**
 
@@ -37,9 +37,7 @@ NZXT C Gold (2024/3.1) - [link](https://pcpartpicker.com/product/qDLdnQ/nzxt-c85
 
 Adata XPG Core Reactor II - [link](https://pcpartpicker.com/product/zfGhP6/adata-xpg-core-reactor-ii-750-w-80-gold-certified-fully-modular-atx-power-supply-corereactorii750g-bkcus)
 
-Vetroo GV/G5* - [Link](https://pcpartpicker.com/product/zNzp99/vetroo-50315153244479-850-w-80-gold-certified-fully-modular-atx-power-supply-50315153244479)
-
-* = Long shipping times consisting of over 1 month on the Black variant.
+Vetroo GV/G5 - [Link](https://pcpartpicker.com/product/zNzp99/vetroo-50315153244479-850-w-80-gold-certified-fully-modular-atx-power-supply-50315153244479)
 
 Adata XPG Core Reactor II VE - [Link](https://pcpartpicker.com/product/dLTZxr/adata-xpg-core-reactor-ii-ve-750-w-80-gold-certified-fully-modular-atx-power-supply-corereactoriive750g-bkcus)
 
