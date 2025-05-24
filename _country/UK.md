@@ -5,7 +5,7 @@ layout: default
 
 # UK
 
-*Last updated on 25/05/18*
+*Last updated on 25/05/25*
 
 **Prices WILL change over time, so check pricing on all of the units before purchasing!**
 
@@ -21,12 +21,11 @@ Corsair AX1600i - [Link](https://uk.pcpartpicker.com/product/cJbwrH/corsair-ax16
 
 Corsair HXi (2023) - [Link](https://uk.pcpartpicker.com/product/fGgrxr/corsair-hx1200i-1200-w-80-platinum-certified-fully-modular-atx-power-supply-cp-9020281-na)
 
-Asus ROG Strix Aura - [Link](https://uk.pcpartpicker.com/product/Tv26Mp/asus-rog-strix-aura-edition-1200-w-80-gold-certified-fully-modular-atx-power-supply-90ye00p0-b0na00)
-
 **Mainstream**
 
 Corsair RMx (2024) - [Link](https://uk.pcpartpicker.com/product/vY4Zxr/corsair-rm850x-2024-850-w-fully-modular-atx-power-supply-cp-9020270-na)
 
+Asus ROG Strix Aura - [Link](https://uk.pcpartpicker.com/product/Tv26Mp/asus-rog-strix-aura-edition-1200-w-80-gold-certified-fully-modular-atx-power-supply-90ye00p0-b0na00)
 
 Vetroo GV/G5* - [Link](https://uk.pcpartpicker.com/product/BZcBD3/vetroo-50315153277247-850-w-80-gold-certified-fully-modular-atx-power-supply-50315153277247)
 
