@@ -19,6 +19,8 @@ layout: default
 
 Corsair RMx Shift* - [Link](1https://pcpricetracker.in/gen/products/5a827f87dd69c15383c6415a91ff3039)
 
+* = Case Compatibility needs to be checked due to the location of the cable connectors.
+
 Super Flower Leadex Platnium SE - [Link](https://pcpricetracker.in/gen/products/acc64f571dce8941fe019b45b8f8624b)
 
 Thermaltake GF A3* - [Link](https://pcpricetracker.in/gen/products/02c81e2c0bbb417b2d54bd0fe3fda398)
