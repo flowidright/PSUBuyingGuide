@@ -23,5 +23,7 @@ Corsair CX - [Link](https://pcpricetracker.in/gen/products/50b9ec5c0e43dc9685c3e
 
 MSI MAG ABN* - [Link](https://pcpricetracker.in/gen/products/f142e178bcfb0b5d2c18838e722f9be3)
 
+* = 750w model does not have proper reviews; likely the same internals but buy at your own risk.
+
 Deepcool PL-D - [Link](https://pcpricetracker.in/gen/products/5fb4f5af73ca3f058a47f2f19cf0c73b)
 
