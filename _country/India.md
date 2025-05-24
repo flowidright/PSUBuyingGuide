@@ -15,6 +15,20 @@ layout: default
 
 ![wattageselection](Screenshot_20250506-224510.png)
 
+**Mainstream**
+
+Corsair RMx Shift* - [Link](1https://pcpricetracker.in/gen/products/5a827f87dd69c15383c6415a91ff3039)
+
+Super Flower Leadex Platnium SE - [Link](https://pcpricetracker.in/gen/products/acc64f571dce8941fe019b45b8f8624b)
+
+Thermaltake GF A3* - [Link](https://pcpricetracker.in/gen/products/02c81e2c0bbb417b2d54bd0fe3fda398)
+
+* = Contrary to popular belief, the GF A3 has been swapped only in the US.
+
+Gigabyte P-GM* - [Link](https://pcpricetracker.in/gen/products/56a48b30c447af2e8301e6142bab2243)
+
+* = You MUST check if the PSU is the V2 variant, NOT the V1. If you got the V1 version, promptly return to your retailer/submit a RMA claim to gigabyte for a new V2 model.
+
 **Budget:**
 
 Deepcool PK-D - [Link](https://pcpricetracker.in/gen/products/3dbb4376a2fe569e5579d2e22e75ac4a)
