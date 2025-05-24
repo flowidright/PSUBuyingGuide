@@ -35,6 +35,8 @@ Seasonic Focus Gold - [Link](https://uk.pcpartpicker.com/product/gWbwrH/seasonic
 
 **Budget**
 
+NZXT C Bronze - [Link](https://uk.pcpartpicker.com/product/crhv6h/nzxt-c750-2023-750-w-80-bronze-certified-atx-power-supply-pa-7b2bb-us)
+
 Corsair CX (2023) - [Link](https://uk.pcpartpicker.com/product/nNTZxr/corsair-cx-2023-650-w-80-bronze-certified-atx-power-supply-cp-9020278-na)
 
 MSI MAG ABN* - [Link](https://uk.pcpartpicker.com/product/8LNxFT/msi-mag-a-bn-650-w-80-bronze-certified-atx-power-supply-mag-a650bn)
