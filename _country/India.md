@@ -17,7 +17,7 @@ layout: default
 
 **Mainstream**
 
-Corsair RMx Shift* - [Link](1https://pcpricetracker.in/gen/products/5a827f87dd69c15383c6415a91ff3039)
+Corsair RMx Shift* - [Link](https://pcpricetracker.in/gen/products/5a827f87dd69c15383c6415a91ff3039)
 
 * = Case Compatibility needs to be checked due to the location of the cable connectors.
 
