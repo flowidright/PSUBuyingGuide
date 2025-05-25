@@ -25,6 +25,10 @@ Corsair HXi (2023) - [Link](https://uk.pcpartpicker.com/product/fGgrxr/corsair-h
 
 Corsair RMx (2024) - [Link](https://uk.pcpartpicker.com/product/vY4Zxr/corsair-rm850x-2024-850-w-fully-modular-atx-power-supply-cp-9020270-na)
 
+Corsair RMx Shift* - [Link](https://uk.pcpartpicker.com/product/MgYmP6/corsair-rm850x-shift-850-w-80-gold-certified-fully-modular-side-interface-atx-power-supply-cp-9020252-na)
+
+NZXT C Gold (2024) - [Link](https://uk.pcpartpicker.com/product/qDLdnQ/nzxt-c850-2024-850-w-80-gold-certified-fully-modular-atx-power-supply-pa-8g2bb-us)
+
 Asus ROG Strix Aura - [Link](https://uk.pcpartpicker.com/product/Tv26Mp/asus-rog-strix-aura-edition-1200-w-80-gold-certified-fully-modular-atx-power-supply-90ye00p0-b0na00)
 
 Vetroo GV/G5* - [Link](https://uk.pcpartpicker.com/product/BZcBD3/vetroo-50315153277247-850-w-80-gold-certified-fully-modular-atx-power-supply-50315153277247)
@@ -32,6 +36,8 @@ Vetroo GV/G5* - [Link](https://uk.pcpartpicker.com/product/BZcBD3/vetroo-5031515
  * = PCPP availability is hit or miss - always check Amazon first.
 
 Seasonic Focus Gold - [Link](https://uk.pcpartpicker.com/product/gWbwrH/seasonic-focus-gold-750w-80-gold-certified-semi-modular-atx-power-supply-ssr-750fm)
+
+Montech Century II - [Link](https://uk.pcpartpicker.com/product/yJkqqs/montech-century-ii-1050-w-80-gold-certified-fully-modular-atx-power-supply-century-ii-1050w)
 
 **Budget**
 
