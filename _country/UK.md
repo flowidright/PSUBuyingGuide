@@ -27,6 +27,8 @@ Corsair RMx (2024) - [Link](https://uk.pcpartpicker.com/product/vY4Zxr/corsair-r
 
 Corsair RMx Shift* - [Link](https://uk.pcpartpicker.com/product/MgYmP6/corsair-rm850x-shift-850-w-80-gold-certified-fully-modular-side-interface-atx-power-supply-cp-9020252-na)
 
+* = Case Compatibility needs to be checked due to the location of the cable connectors.
+
 NZXT C Gold (2024) - [Link](https://uk.pcpartpicker.com/product/qDLdnQ/nzxt-c850-2024-850-w-80-gold-certified-fully-modular-atx-power-supply-pa-8g2bb-us)
 
 Asus ROG Strix Aura - [Link](https://uk.pcpartpicker.com/product/Tv26Mp/asus-rog-strix-aura-edition-1200-w-80-gold-certified-fully-modular-atx-power-supply-90ye00p0-b0na00)
