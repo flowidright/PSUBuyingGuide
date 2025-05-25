@@ -41,6 +41,8 @@ Vetroo GV/G5 - [Link](https://pcpartpicker.com/product/zNzp99/vetroo-50315153244
 
 Adata XPG Core Reactor II VE - [Link](https://pcpartpicker.com/product/dLTZxr/adata-xpg-core-reactor-ii-ve-750-w-80-gold-certified-fully-modular-atx-power-supply-corereactoriive750g-bkcus)
 
+Montech Century II - [Link](https://pcpartpicker.com/product/yJkqqs/montech-century-ii-1050-w-80-gold-certified-fully-modular-atx-power-supply-century-ii-1050w)
+
 **Budget:**
 
 Montech APX - [Link](https://pcpartpicker.com/product/hcbypg/montech-apx-650-w-80-certified-atx-power-supply-apx-650w)
