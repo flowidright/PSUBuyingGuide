@@ -29,6 +29,8 @@ MSI MPG AG - [Link](https://ca.pcpartpicker.com/product/nhC48d/msi-mpg-a850g-pci
 
 Lian Li Edge Gold - [Link](https://ca.pcpartpicker.com/product/XTBFf7/lian-li-edge-gold-850-w-80-gold-certified-fully-modular-atx-power-supply-eg0850g-black)
 
+AsRock SL-G - [Link](https://ca.pcpartpicker.com/product/NDCZxr/asrock-steel-legend-sl-750g-750-w-80-gold-certified-fully-modular-atx-power-supply-sl-750g)
+
 **Budget**
 
 Corsair CX (2023) - [Link](https://ca.pcpartpicker.com/product/nNTZxr/corsair-cx-2023-650-w-80-bronze-certified-atx-power-supply-cp-9020278-na)
