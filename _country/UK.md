@@ -5,7 +5,7 @@ layout: default
 
 # UK
 
-*Last updated on 25/05/25*
+*Last updated on 25/06/02*
 
 **Prices WILL change over time, so check pricing on all of the units before purchasing!**
 
@@ -32,10 +32,6 @@ Corsair RMx Shift* - [Link](https://uk.pcpartpicker.com/product/MgYmP6/corsair-r
 NZXT C Gold (2024) - [Link](https://uk.pcpartpicker.com/product/qDLdnQ/nzxt-c850-2024-850-w-80-gold-certified-fully-modular-atx-power-supply-pa-8g2bb-us)
 
 Asus ROG Strix Aura - [Link](https://uk.pcpartpicker.com/product/Tv26Mp/asus-rog-strix-aura-edition-1200-w-80-gold-certified-fully-modular-atx-power-supply-90ye00p0-b0na00)
-
-Vetroo GV/G5* - [Link](https://uk.pcpartpicker.com/product/BZcBD3/vetroo-50315153277247-850-w-80-gold-certified-fully-modular-atx-power-supply-50315153277247)
-
- * = PCPP availability is hit or miss - always check Amazon first.
 
 Seasonic Focus Gold - [Link](https://uk.pcpartpicker.com/product/gWbwrH/seasonic-focus-gold-750w-80-gold-certified-semi-modular-atx-power-supply-ssr-750fm)
 
