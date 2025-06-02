@@ -5,7 +5,7 @@ layout: default
 
 # US
 
-*Last updated on 25/05/25*
+*Last updated on 25/06/02*
 
 **Prices WILL change over time, so check pricing on all of the units before purchasing!**
 
@@ -36,8 +36,6 @@ Corsair RMx Shift* - [Link](https://pcpartpicker.com/product/bGJp99/corsair-rm75
 NZXT C Gold (2024/3.1) - [link](https://pcpartpicker.com/product/qDLdnQ/nzxt-c850-2024-850-w-80-gold-certified-fully-modular-atx-power-supply-pa-8g2bb-us)
 
 Adata XPG Core Reactor II - [link](https://pcpartpicker.com/product/zfGhP6/adata-xpg-core-reactor-ii-750-w-80-gold-certified-fully-modular-atx-power-supply-corereactorii750g-bkcus)
-
-Vetroo GV/G5 - [Link](https://pcpartpicker.com/product/zNzp99/vetroo-50315153244479-850-w-80-gold-certified-fully-modular-atx-power-supply-50315153244479)
 
 Adata XPG Core Reactor II VE - [Link](https://pcpartpicker.com/product/dLTZxr/adata-xpg-core-reactor-ii-ve-750-w-80-gold-certified-fully-modular-atx-power-supply-corereactoriive750g-bkcus)
 
